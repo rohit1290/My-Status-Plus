@@ -14,8 +14,5 @@ Hosted Server: https://strong-river-7114.herokuapp.com/
 
 For any details or clarification contact me.
 
-Rohit Gupta\n
-(India, West Bengal, Kolkata)
-rohit.1290@gmail.com
-rohit_1290@yahoo.com
+Rohit Gupta (rohit.1290@gmail.com, rohit_1290@yahoo.com)
 
