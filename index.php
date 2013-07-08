@@ -20,7 +20,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=147518928661663";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=XXXXXXXXXXXXXXX";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 
@@ -28,7 +28,7 @@
 
 window.fbAsyncInit = function() {
     FB.init({
-      appId      : '147518928661663', // App ID
+      appId      : 'XXXXXXXXXXXXXXX', // App ID
 	  channelUrl : '//'+window.location.hostname+'/',
       status     : true, // check login status
       cookie     : true, // enable cookies to allow the server to access the session
@@ -38,11 +38,6 @@ window.fbAsyncInit = function() {
     FB.Canvas.setAutoGrow();
 }
 
-function win_popup(api_id){
-alert(api_id);
-alert("i am here");
-window.open('https://www.facebook.com/dialog/feed?_path=feed&app_id='+api_id+'&redirect_uri=https://facebook.com/&display=touch','_new','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=520,height=250');
-}
 </script>
 	
 		<div class="container">	
