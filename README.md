@@ -7,13 +7,19 @@ This app is used to make status update via different host on facebook using face
 
 
 Working App: https://apps.facebook.com/host-my-status/
+
 Hosted Server: https://strong-river-7114.herokuapp.com/
+
+
 
 
 For any details or clarification contact me.
 
 Rohit Gupta
+
 (India, West Bengal, Kolkata)
+
 rohit.1290@gmail.com
+
 rohit_1290@yahoo.com
 
