@@ -14,9 +14,5 @@ For any details or clarification contact me.
 
 
 
-Rohit Gupta 
-
-
+Rohit Gupta
 Gmail: rohit.1290@gmail.com
-
-Yahoo: rohit_1290@yahoo.com
