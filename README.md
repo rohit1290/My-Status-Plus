@@ -13,6 +13,7 @@ For any details or clarification contact me.
 
 
 
+Thank You
 
-Rohit Gupta
-Gmail: rohit.1290@gmail.com
+
+Rohit Gupta (rohit.1290@gmail.com)
